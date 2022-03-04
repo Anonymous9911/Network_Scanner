@@ -6,5 +6,5 @@ $ python3 Network_Scanner.py -t X.X.X.X/24
 EXAMPLE :  
      $ python3 Network_Scanner.py -t 192.168.1.0/24
      
-HELP MENU
+HELP MENU :
      $ python3 Network_Scanner.py --help
